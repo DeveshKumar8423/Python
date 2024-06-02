@@ -1,0 +1,5 @@
+type(True)
+type(70)
+type(False)
+type(3.14)
+type("Hello")
